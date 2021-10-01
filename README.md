@@ -7,7 +7,7 @@ My name is freak.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=unfreak&repo=unfreak&countColorcountColor)
 
-### Learning :tools:  
+### Learning 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;
 
 ### Analytics :gear:
