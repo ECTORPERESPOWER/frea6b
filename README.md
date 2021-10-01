@@ -1,16 +1,19 @@
-- 👨‍💻 Olá me chamo freak,sou estudante de Programação.
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+==================================================================
 
 
+My name is freak. 
 
- ### Linguagens e ferramentas 🛠
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=unfreak&repo=unfreak&countColorcountColor)
 
-<br/>
+### Languages & Tools :tools:  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;
 
+### Analytics :gear:
 
-<p align="center">
-“Não se trata de ter ideias, mas sim de levar essas ideias para a vida real.” — Scott Belsky"
-</p>
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezve&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=unfreak&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=unfreak&hide_border=true)
