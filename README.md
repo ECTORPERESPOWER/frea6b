@@ -11,7 +11,7 @@ My name is freak.
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=yellow)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;
 <br>
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=yellowgreen)&nbsp;![C](https://img.shields.io/badge/-C-05122A?style=flat&color=black)&nbsp;
-![C](https://img.shields.io/badge/-C++-05122A?style=flat&color=black)&nbsp;
+![C](https://img.shields.io/badge/-C++-05122A?style=flat&color=black)&nbsp;![C#](https://img.shields.io/badge/-C++-05122A?style=flat&color=green)&nbsp;
 ### Analytics :gear:
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezve&layout=compact&count_private=true)
