@@ -7,10 +7,13 @@ My name is freak.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=unfreak&repo=unfreak&countColorcountColor)
 
+### Basic
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=yellowgreen)&nbsp;
+
 ### Learning 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=yellow)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;
 <br>
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=yellowgreen)&nbsp;![C](https://img.shields.io/badge/-C-05122A?style=flat&color=black)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&color=black)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&color=black)&nbsp;
 ### Analytics :gear:
 
