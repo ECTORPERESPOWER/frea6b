@@ -10,7 +10,7 @@ My name is freak.
 ### Basic
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=yellowgreen)&nbsp;
 
-### Learning 
+### i will learn 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=yellow)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;
 <br>
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&color=black)&nbsp;
