@@ -2,19 +2,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 ==================================================================
 
-
-My name is freak. 
-
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=frea6B&repo=freak6B&countColorcountColor)
 
 ### Basic
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=yellowgreen)&nbsp;
 
 ### i will learn 
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=yellow)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;
-<br>
-![C](https://img.shields.io/badge/-C-05122A?style=flat&color=black)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&color=black)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=yellow)&nbsp;![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=orange)&nbsp;![Html](https://img.shields.io/badge/-Css-05122A?style=flat&color=blue)&nbsp;
 ### Analytics :gear:
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezve&layout=compact&count_private=true)
